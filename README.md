@@ -3,6 +3,6 @@
 
 ### About me
 
--  **Specialty:** Software Engineer and DevOps Engineer
+-  **Specialty:** Full Stack Software Engineer and DevOps Engineer
 -  **Languages:** PHP, JavaScript, C++, Delphi, Java, Go
--  **Organizations:** Alta Forja, Pratica STI and Doity
+-  **Organizations:** Alta Forja, Pratica STI and Acesse Seu Condomínio
